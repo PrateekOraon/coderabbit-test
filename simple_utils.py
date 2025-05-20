@@ -12,4 +12,4 @@ def celsius_to_fahrenheit(celsius):
 
 def print_hello_world():
     """Prints 'Hello, World!' to the console."""
-	print("Hello, World!")
+    print("Hello, World!")
